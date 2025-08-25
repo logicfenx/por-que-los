@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/por-que-los",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a por-que-los",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/por-que-los.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/por-que-los-traders-ven-a-bydfi-como-una-alternativa-confiable-a-bybit/"
+    },
+    "homepage": "https://bitcu.co/por-que-los-traders-ven-a-bydfi-como-una-alternativa-confiable-a-bybit/"
+}
